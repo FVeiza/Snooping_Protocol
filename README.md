@@ -2,4 +2,5 @@
 Project in Verilog HDL of an architecture of memory components aiming the implementation of the Snooping coherence protocol
 
 # Component Diagram
-[laoc2-pratica4parte2-diagrama.pdf](https://github.com/FVeiza/Snooping_Protocol/files/9263666/laoc2-pratica4parte2-diagrama.pdf)
+![image](https://user-images.githubusercontent.com/110564584/182961823-7b6f6481-0682-4239-97ac-ef1a62fadc51.png)
+
